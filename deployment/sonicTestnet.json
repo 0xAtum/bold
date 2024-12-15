@@ -1,0 +1,74 @@
+[
+  {
+    "contractAddress": "0xeEEc870468b25D515F5a125C30574912F1626C98",
+    "contractName": "GovernanceToken"
+  },
+  {
+    "contractAddress": "0xB8e28767fF0F6197B6820B7c6E2Cf75b48B94adF",
+    "contractName": "WETHTester"
+  },
+  {
+    "contractAddress": "0xf0076A2160247884DA5AB0A5625F192cD3cA6463",
+    "contractName": "Bold Token"
+  },
+  {
+    "contractAddress": "0x36b9ADccF2a08839DDC342d7a9D259B984fbD855",
+    "contractName": "AddressesRegistryWETH"
+  },
+  {
+    "contractAddress": "0x299a868B5E6772F64cB9180d5CdA70cFBA06a73d",
+    "contractName": "CollateralRegistry"
+  },
+  {
+    "contractAddress": "0x8e0CD3c41C6724057Aa742a5F4c6e4822ccA6d91",
+    "contractName": "HintHelpers"
+  },
+  {
+    "contractAddress": "0x0712Bb31d61991eef324B5a7F88785Dd60eFF574",
+    "contractName": "MultiTroveGetter"
+  },
+  {
+    "contractAddress": "0x83DbA4a7F9d2a9D2BeA4A625dA9401ce7461d7EE",
+    "contractName": "PriceFeed"
+  },
+  {
+    "contractAddress": "0xf605e023091C95bcBF05cA49AaCD94c1b50A9D97",
+    "contractName": "BorrowerOperations_WETH"
+  },
+  {
+    "contractAddress": "0xeDa79f7F84aE971bF28c501cE3e56847f8BB1BC6",
+    "contractName": "TroveManager_WETH"
+  },
+  {
+    "contractAddress": "0x11d7f14819e9429cEf1580A1940a3F03109C38f5",
+    "contractName": "TroveNFT_WETH"
+  },
+  {
+    "contractAddress": "0xe0d935f30E017E39447ca52741236d092e362C44",
+    "contractName": "StabilityPool_WETH"
+  },
+  {
+    "contractAddress": "0xA0Ed7A33701932B0aaeF86060d54DBf51E12DeCa",
+    "contractName": "ActivePool_WETH"
+  },
+  {
+    "contractAddress": "0xD57d1ea98A09C14bEBa93dF06e808658f53DF915",
+    "contractName": "DefaultPool_WETH"
+  },
+  {
+    "contractAddress": "0xd87F1B09F998740a8e125f0dc5Af09A2bf1b2bf8",
+    "contractName": "GasPool_WETH"
+  },
+  {
+    "contractAddress": "0x06B4ff8C63Ca3Fd484496F4f129e24811A6f186e",
+    "contractName": "CollSurplusPool_WETH"
+  },
+  {
+    "contractAddress": "0x5936efd176d2168300D55727879d269C64de8306",
+    "contractName": "SortedTroves_WETH"
+  },
+  {
+    "contractAddress": "0x3eF6583234e7515f9617363D7FA609b842b5F535",
+    "contractName": "Governance"
+  }
+]
